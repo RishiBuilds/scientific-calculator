@@ -55,7 +55,7 @@ To run this calculator application, ensure you have Python installed on your sys
 
 ```bash
 # Clone the repository (if applicable)
-git clone https://github.com/rishichaurasia/scientific-calculator.git
+git clone https://github.com/RishiBuilds/scientific-calculator.git
 
 # Navigate to the project directory
 cd scientific-calculator
@@ -143,8 +143,6 @@ flowchart TD
 ```
 
 ## Future Work
-- ~~Add memory functions (M+, M-, MR, MC)~~ ✅ Implemented
-- ~~Add more scientific functions~~ ✅ Implemented
 - Implement unit conversion capabilities
 - Ability to save calculation history to a file
 - Add scientific notation support
