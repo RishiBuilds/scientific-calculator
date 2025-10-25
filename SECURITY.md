@@ -2,15 +2,16 @@
 
 ## Supported Versions
 
-The following versions of this project are currently supported with security updates:
+Currently supported with security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | ✅ Yes             |
+| Latest  | ✅ Yes             |
 
 ## Reporting a Vulnerability
+If you discover a security vulnerability, please report it by emailing the project maintainer: 
+rishi.chaurasia.dev@gmail.com
 
-If you discover a vulnerability, please report it via email at:  
-[mail@0xarchit.is-a.dev](mailto:mail@0xarchit.is-a.dev)
+**Please do not report security vulnerabilities through public GitHub issues.**
 
-Your contributions to improve security are greatly appreciated!
+Thank you for helping keep this project secure!

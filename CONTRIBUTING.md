@@ -1,32 +1,28 @@
-# Contributing Guidelines
+# Contributing
 
-We welcome contributions to enhance the scientific calculator project. Please follow these steps to ensure a smooth process:
+Thank you for your interest in contributing to this Scientific Calculator project!
 
-1. **Fork the Repository**  
-   Click the fork button to copy the repository to your GitHub account.
+## How to Contribute
 
-2. **Create a Feature Branch**  
-   Open your terminal and run:
-   ```bash
-   git checkout -b feature-branch
-   ```
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature-name`
+3. Make your changes
+4. Commit your changes: `git commit -m 'Add some feature'`
+5. Push to your branch: `git push origin feature/your-feature-name`
+6. Open a Pull Request
 
-3. **Make Your Changes**  
-   Implement your improvements or new features.
+## Guidelines
 
-4. **Commit Your Changes**  
-   Use the following command to commit your changes with a clear message:
-   ```bash
-   git commit -m "Add new feature"
-   ```
+- Follow the existing code style
+- Add comments for complex logic
+- Test your changes before submitting
+- Keep commits focused and descriptive
 
-5. **Push to Your Branch**  
-   Push your branch to your forked repository:
-   ```bash
-   git push origin feature-branch
-   ```
+## Reporting Issues
 
-6. **Submit a Pull Request**  
-   Navigate to the original repository and open a Pull Request with a detailed description of your changes.
+If you find a bug or have a suggestion:
+1. Check if the issue already exists
+2. Create a new issue with a clear description
+3. Include steps to reproduce (for bugs)
 
-Thank you for contributing!
+Thank you for contributing! 🎉
