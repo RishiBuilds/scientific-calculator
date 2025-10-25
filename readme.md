@@ -161,8 +161,6 @@ Contributions to improve the calculator are welcome. Please follow these steps:
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rishichaurasia/scientific-calculator?tab=MIT-1-ov-file#) file for details.
 
 ## Author
 **Rishi Chaurasia** - Developer of this Scientific Calculator
